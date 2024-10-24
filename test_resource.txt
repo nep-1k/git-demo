@@ -1,9 +1,0 @@
-header
-
-hello world!
-
-update text. END.
-
-Show GIT PUSH command.
-
-adding some info from local PC
